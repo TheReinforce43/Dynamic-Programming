@@ -5,3 +5,7 @@
 4. Variations of 0/1 knapsack problem
    1. minimum difference subset 
    2. count of the subset sum
+5. Unbounded Knapsack Problem
+   1. Rod cutting problem
+   2. Longest Common Subsequence
+   3. Longest Common Substring
